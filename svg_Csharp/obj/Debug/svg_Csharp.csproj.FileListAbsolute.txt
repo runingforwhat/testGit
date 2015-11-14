@@ -1,0 +1,12 @@
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\bin\Debug\svg_Csharp.exe.config
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\bin\Debug\svg_Csharp.exe
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\bin\Debug\svg_Csharp.pdb
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\bin\Debug\Svg.dll
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\bin\Debug\Svg.pdb
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\bin\Debug\Svg.xml
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\obj\Debug\svg_Csharp.csprojResolveAssemblyReference.cache
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\obj\Debug\svg_Csharp.Form1.resources
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\obj\Debug\svg_Csharp.Properties.Resources.resources
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\obj\Debug\svg_Csharp.csproj.GenerateResource.Cache
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\obj\Debug\svg_Csharp.exe
+D:\MyWorkspace\C++Workspace\svg_Csharp\svg_Csharp\obj\Debug\svg_Csharp.pdb
